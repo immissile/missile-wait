@@ -1,0 +1,22 @@
+{
+  "name": "missile-wait",
+  "version": "0.0.0",
+  "description": "Delay execution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:immissile/missile-wait.git"
+  },
+  "keywords": [
+    "wait",
+    "setTimeout"
+  ],
+  "author": "missile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immisisle/missile-wait/issues"
+  }
+}
