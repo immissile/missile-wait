@@ -1,6 +1,6 @@
 {
   "name": "missile-wait",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Delay execution",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   "author": "missile",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/immisisle/missile-wait/issues"
+    "url": "https://github.com/immissile/missile-wait/issues"
   }
 }
